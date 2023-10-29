@@ -1,10 +1,10 @@
 <h1 align="center">
-   Vusic | The music destination you want.
+   Music | The music destination you want.
 </h1>
 
 <div align="center">
 
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
+![Home Page](http://localhost:3000/)
 
     A music app made with the help of React.js.
     
