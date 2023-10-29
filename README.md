@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Home Page]("https://sanjaychatanma.s3.amazonaws.com/Gaana.png")
+![Home Page](https://sanjaychatanma.s3.amazonaws.com/Gaana.png)
 
     A music app made with the help of React.js.
     
